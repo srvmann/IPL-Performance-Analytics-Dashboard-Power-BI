@@ -41,7 +41,10 @@ The dashboard provides **team, player, and season-level insights**, enabling dat
 ---
 
 ## 📸 Dashboard Snapshot
-*(Insert screenshot of your dashboard here for better visibility)*
+(https://github.com/srvmann/CricketViz-IPL-Analytics-Dashboard/blob/main/IPL-Dashboard-Homepage.png)*
+(https://github.com/srvmann/CricketViz-IPL-Analytics-Dashboard/blob/main/Bowlers-Dashboard.png)*
+(https://github.com/srvmann/CricketViz-IPL-Analytics-Dashboard/blob/main/Batters-Dashboard.png)*
+
 
 ---
 
